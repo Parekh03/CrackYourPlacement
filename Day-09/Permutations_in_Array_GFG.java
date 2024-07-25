@@ -1,3 +1,5 @@
+// Same question is present twice in the DSA Sheet.
+
 class Solution {
     public void reverseArray(long[] a){
         int p1 = 0;
